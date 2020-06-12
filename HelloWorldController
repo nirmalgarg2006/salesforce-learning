@@ -1,0 +1,7 @@
+public class HelloWorldControllr
+{
+	public static void HelloWorld(string name)
+	{
+		return "Hello world " + name;
+	}
+}

@@ -1,0 +1,23 @@
+public class RestConsumer {
+	public static void CallRest(string name)
+    {
+        partnerSoapSforceCom.Soap p = new partnerSoapSforceCom.Soap();
+		    String uname = 'user name';
+    	  String pwd = 'password + token';
+        partnerSoapSforceCom.LoginResult e = p.login(uname,pwd);
+        System.debug('The result of the login call is => '+e);
+        System.debug('ServerURL = '+e.serverURL);//Line 1
+        System.debug('Session Id = '+e.SessionId);//Line 2
+        Http hh = new Http(); 
+        HttpRequest req = new HttpRequest(); 
+        req.setHeader('Authorization','Bearer '+e.sessionId);            
+        //req.setHeader('Content-Type','application/XML'); 
+        //req.setHeader('accept','application/XML');         
+        req.setMethod('GET');
+        string endpoint = 'https://salesforce domain/services/apexrest/Rest service url/' + name;
+        req.setEndpoint(endPoint); 
+        HttpResponse res = hh.send(req); 
+        String response = res.getBody();
+        system.debug('Response ' + response);
+    }
+}
