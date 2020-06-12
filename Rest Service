@@ -1,11 +1,22 @@
 @RestResource(urlMapping='/NirmalHelloWorldRestService/*')
 global class HelloWorldRestService {
-	@HttpGet
+@HttpGet
     global static string SayHello()
     {
         RestRequest req = RestContext.request;
         RestResponse res = RestContext.response;
         string name = req.requestURI.substring(req.requestURI.lastIndexOf('/')+1);
 		return 'hello world - ' + name;
+    }
+    
+    @HttpPost
+    global static string CreateAccount(string name, string phone, string website)
+    {
+        Account acc = new account();
+        acc.Name = name;
+        acc.Phone = phone;
+        acc.Website = website;
+        insert acc;
+        return acc.id;
     }
 }
