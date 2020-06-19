@@ -1,0 +1,302 @@
+[
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843183,
+            "changeTime": 1592459847960,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843183,
+            "changeTime": 1592459847972,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843295,
+            "changeTime": 1592459847984,
+            "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843184,
+            "changeTime": 1592459848013,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843185,
+            "changeTime": 1592459848023,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843185,
+            "changeTime": 1592459848032,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\contentassets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843186,
+            "changeTime": 1592459848039,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843186,
+            "changeTime": 1592459848047,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843187,
+            "changeTime": 1592459848056,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592462363715,
+            "changeTime": 1592462363715,
+            "contentHash": "faff82b8edb19af39d7a6c08271b6498fd431a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\lwc\\helloWorld",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\lwc\\helloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592462363721,
+            "changeTime": 1592462366250,
+            "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 308,
+            "modifiedTime": 1592462904288,
+            "changeTime": 1592548782976,
+            "contentHash": "9c97680621834976fa05bc0d00fa14ff681d8c42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 196,
+            "modifiedTime": 1592462918428,
+            "changeTime": 1592548782978,
+            "contentHash": "a09c9c134ec450daf07d77df19c4a40838c13591",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1592462952200,
+            "changeTime": 1592548782980,
+            "contentHash": "eb4f765681cb2c83aeff2d68b6574814d1f82228",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843187,
+            "changeTime": 1592459848065,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843188,
+            "changeTime": 1592459848072,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843189,
+            "changeTime": 1592459848078,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843189,
+            "changeTime": 1592459848087,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\triggers",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459843190,
+            "changeTime": 1592459848095,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\nirma\\OneDrive\\Documents\\salesforce learning\\SampleProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1592459857770,
+            "changeTime": 1592459857770,
+            "contentHash": "49d706e0abf2cba9f56c90a246e933bfb8a64b87",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
