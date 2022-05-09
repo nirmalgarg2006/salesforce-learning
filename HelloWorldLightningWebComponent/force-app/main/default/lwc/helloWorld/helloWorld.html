@@ -1,0 +1,15 @@
+<template>
+    <lightning-card title="Hello World" icon-name="custom:custom14">
+        <div class="slds-m-around_medium">
+            <p>Hello, {greeting}!</p>
+            <lightning-input label="name" value={greeting} onchange={changehandler}></lightning-input>
+            <c-child-hello-world item-name="Milk" person-message={greeting} onhelloevent={handleclick}></c-child-hello-world>
+            <lightning-input name="firstname" label="firstname" onchange={namechangehandler}></lightning-input>
+            <lightning-input name="lastname" label="lastname" onchange={namechangehandler}></lightning-input>
+            <p>Upper Case full name - {uppercasename}</p>
+            <a onclick={clickhandler}>
+                <p>Hello Child</p>
+            </a>
+        </div>
+    </lightning-card>
+</template>

@@ -1,0 +1,11 @@
+<template>
+    <lightning-card title="Find Accounts" icon-name="custom:custom63">
+        <div style="height: 300px;">
+           <template if:true={accounts.data}>
+                <template for:each={accounts.data} for:item="account">
+                    <p key={account.id}>{account.name}</p>
+                </template>
+           </template>
+        </div>
+    </lightning-card>
+</template>
