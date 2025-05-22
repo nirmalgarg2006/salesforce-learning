@@ -1,0 +1,32 @@
+<template>
+    <lightning-card title="Top 10 Accounts by Revenue" icon-name="standard:account">
+        <div class="slds-m-around_medium">
+            <template if:true={accounts.data}>
+                <template if:true={hasAccounts}>
+                    <template for:each={accounts.data} for:item="account">
+                        <div key={account.Id} class="slds-box slds-box_x-small slds-m-bottom_small">
+                            <p>
+                                <lightning-formatted-text value={account.Name}></lightning-formatted-text>
+                            </p>
+                            <p>
+                                <lightning-formatted-number
+                                    value={account.AnnualRevenue}
+                                    format-style="currency"
+                                    currency-code="USD"
+                                ></lightning-formatted-number>
+                            </p>
+                        </div>
+                    </template>
+                </template>
+                <template if:false={hasAccounts}>
+                    <p>No accounts found.</p>
+                </template>
+            </template>
+            <template if:true={accounts.error}>
+                <p>Error loading accounts.</p>
+                <!-- Consider displaying more specific error details if available -->
+                <!-- <p>{accounts.error}</p> -->
+            </template>
+        </div>
+    </lightning-card>
+</template>
